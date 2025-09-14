@@ -157,7 +157,7 @@ ______
 ###### ADD USER ACCOUNT ON LINUX TINYVM
 
 @BLDG-PH, BLDG-JP
-adduser nickname-m
+adduser LAW-32
 C1sc0123
 C1sc0123
 
@@ -170,4 +170,5 @@ Open a browser and enter the Gig2 IP address of the VPN.
 http://192.168.102.11/
 
 http://192.168.102.12/
+
 
